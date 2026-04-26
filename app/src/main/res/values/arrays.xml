@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="book_genres">
+        <item>Select a genre</item>
+        <item>Fiction</item>
+        <item>Non-Fiction</item>
+        <item>Science Fiction</item>
+        <item>Fantasy</item>
+        <item>Mystery</item>
+        <item>Thriller</item>
+        <item>Romance</item>
+        <item>Horror</item>
+        <item>Biography</item>
+        <item>Memoir</item>
+        <item>Self-Help</item>
+        <item>Business</item>
+        <item>Technology</item>
+        <item>Science</item>
+        <item>History</item>
+        <item>Philosophy</item>
+        <item>Psychology</item>
+        <item>Academic</item>
+        <item>Textbook</item>
+        <item>Reference</item>
+        <item>Poetry</item>
+        <item>Drama</item>
+        <item>Children</item>
+        <item>Young Adult</item>
+        <item>Comics</item>
+        <item>Other</item>
+    </string-array>
+</resources>

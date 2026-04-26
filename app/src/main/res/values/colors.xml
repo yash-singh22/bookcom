@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Theme Palette: Yellow, Black, White -->
+    <color name="ph_yellow">#FF9900</color>
+    <color name="ph_yellow_dark">#E68A00</color>
+    <color name="ph_black">#000000</color>
+    <color name="ph_black_light">#1A1A1A</color>
+    <color name="ph_white">#FFFFFF</color>
+    <color name="ph_white_secondary">#AAAAAA</color>
+    <color name="ph_grey">#333333</color>
+
+    <!-- App Theme Colors -->
+    <color name="primary">@color/ph_yellow</color>
+    <color name="primary_dark">@color/ph_yellow_dark</color>
+    <color name="primary_light">@color/ph_yellow</color>
+
+    <color name="background">#F5F5F5</color>
+    <color name="sidebar_background">#FFFFFF</color>
+    <color name="sidebar_item_selected">@color/ph_yellow</color>
+    <color name="sidebar_text">#1A1A1A</color>
+    <color name="sidebar_text_secondary">#666666</color>
+    
+    <color name="main_background">#F5F5F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_background_light">#F0F0F0</color>
+
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#AAAAAA</color>
+
+    <color name="search_background">#FFFFFF</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Category Tag Colors -->
+    <color name="tag_fiction">@color/ph_yellow</color>
+    <color name="tag_self_help">@color/ph_yellow</color>
+    <color name="tag_tech">@color/ph_yellow</color>
+    <color name="tag_memoir">@color/ph_yellow</color>
+    <color name="tag_academic">@color/ph_yellow</color>
+
+    <!-- Library Indicator Colors -->
+    <color name="indicator_fiction">@color/ph_yellow</color>
+    <color name="indicator_academic">@color/ph_yellow</color>
+    <color name="indicator_tech">@color/ph_yellow</color>
+    <color name="indicator_personal">@color/ph_yellow</color>
+
+    <color name="button_read">@color/ph_yellow</color>
+    <color name="icon_favorite">@color/ph_white</color>
+    <color name="icon_favorite_active">@color/ph_yellow</color>
+</resources>
